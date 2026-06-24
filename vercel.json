@@ -1,6 +1,9 @@
 {
   "buildCommand": "npm run build",
   "installCommand": "npm install",
-  "outputDirectory": "dist/Sistema-de-Reservas",
-  "framework": "angular"
+  "outputDirectory": "dist/Sistema-de-Reservas/browser",
+  "framework": "angular",
+  "routes": [
+    { "src": "/$", "dest": "/index.csr.html" }
+  ]
 }
