@@ -1,6 +1,6 @@
 {
   "buildCommand": "npm run build",
   "installCommand": "npm install",
-  "outputDirectory": "dist/Sistema-de-Reservas/browser",
+  "outputDirectory": "dist/Sistema-de-Reservas",
   "framework": "angular"
 }
